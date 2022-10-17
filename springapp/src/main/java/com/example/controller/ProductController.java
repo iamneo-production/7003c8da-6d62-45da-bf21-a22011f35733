@@ -24,7 +24,7 @@ import com.example.model.ProductModel;
  
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://8081-feabbfebfbefefbddcadeadbfbcbbecacfbace.examlyiopb.examly.io")
 public class ProductController {
 
  

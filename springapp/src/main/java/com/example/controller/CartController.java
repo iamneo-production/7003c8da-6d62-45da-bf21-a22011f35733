@@ -20,7 +20,7 @@ import com.example.model.CartTempModel;
 import com.example.model.ProductModel;
 
 @RestController
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "https://8081-feabbfebfbefefbddcadeadbfbcbbecacfbace.examlyiopb.examly.io")
 public class CartController {
 	
 	@Autowired

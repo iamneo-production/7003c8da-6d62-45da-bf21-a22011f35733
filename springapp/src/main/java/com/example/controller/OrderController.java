@@ -15,7 +15,7 @@ import com.example.model.CartTempModel;
 import com.example.model.OrderTemp;
 
 @RestController
-@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="https://8081-feabbfebfbefefbddcadeadbfbcbbecacfbace.examlyiopb.examly.io")
 public class OrderController {
 
 	@Autowired

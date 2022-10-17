@@ -12,7 +12,7 @@ import com.example.model.UserModel;
 import com.example.tempmodel.UserTempModel;
 
 @RestController
-@CrossOrigin(origins = "*", allowedHeaders = "*")
+@CrossOrigin(origins = "https://8081-feabbfebfbefefbddcadeadbfbcbbecacfbace.examlyiopb.examly.io", allowedHeaders = "*")
 public class SignupController {
 
 	@Autowired
