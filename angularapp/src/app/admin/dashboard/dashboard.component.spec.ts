@@ -12,7 +12,7 @@ describe('DashboardComponent', () => {
   beforeEach(() => {
     component = new DashboardComponent(router,productService,productDeleteService,productEditService);
   });
-  it('test_case3', () => {
+  it('test_case18', () => {
     expect(component).toBeTruthy();
   });
 });

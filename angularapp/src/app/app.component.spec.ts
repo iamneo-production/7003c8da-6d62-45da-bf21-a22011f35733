@@ -14,7 +14,7 @@ describe('AppComponent', () => {
     }).compileComponents();
   });
 
-  it('test_case1',()=>{
+  it('test_case11',()=>{
     const fixture = TestBed.createComponent(AppComponent);
       const app = fixture.componentInstance;
       expect(app).toBeTruthy();

@@ -15,7 +15,7 @@ describe('AdminComponent', () => {
     fixture.detectChanges();
   });
 
-  it('test_case2', () => {
+  it('test_case12', () => {
     expect(component).toBeDefined();
   });
 });

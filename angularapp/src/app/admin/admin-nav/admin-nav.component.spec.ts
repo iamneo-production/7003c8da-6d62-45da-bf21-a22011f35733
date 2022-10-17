@@ -14,7 +14,7 @@ describe('AdminNavComponent', () => {
     component = new AdminNavComponent(loginServices,router);
   });
 
-  it('test_case1', () => {
+  it('test_case17', () => {
     expect(component).toBeDefined();
 });
 

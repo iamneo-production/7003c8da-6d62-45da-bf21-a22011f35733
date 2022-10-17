@@ -11,7 +11,7 @@ describe('LoginComponent', () => {
     component = new LoginComponent(router,loginService);
   });
   
-  it('test_case3', () => {
+  it('test_case13', () => {
     expect(component).toBeTruthy();
   });
 });

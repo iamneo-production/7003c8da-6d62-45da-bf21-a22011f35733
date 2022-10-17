@@ -14,7 +14,7 @@ describe('CartComponent', () => {
     component = new CartComponent(router,cartService,loginService);
   });
 
-  it('should create', () => {
+  it('test_case16', () => {
     expect(component).toBeTruthy();
   });
 });

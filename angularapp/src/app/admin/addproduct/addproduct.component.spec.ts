@@ -10,7 +10,7 @@ describe('AddproductComponent', () => {
   beforeEach(() => {
     component = new AddproductComponent(router,addproductService);
   });
-  it('should create', () => {
+  it('test_case19', () => {
     expect(component).toBeTruthy();
   });
 });
